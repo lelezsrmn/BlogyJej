@@ -1,47 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="821bd446-01be-42c0-8ed2-af8a3eb32117" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/.eslintrc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/.idea/blogyjej.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/app/API/comments.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/app/API/posts.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/app/API/users.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/app/admin/dashboard.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/app/admin/posts.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/app/admin/settings.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/app/admin/users.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/app/authentification/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/app/authors/[slug]/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/app/blog/[slug]/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/app/categorie/[slug]/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/app/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/app/globals.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/app/layout.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/app/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/next.config.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/pnpm-lock.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/postcss.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/prisma/schema.prisma" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/public/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/src/components/Contact.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/src/components/ContenueAdd.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/src/components/Header.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/src/components/Hero.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/tailwind.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogyjej/tsconfig.json" beforeDir="false" />
-    </list>
+    <list default="true" id="821bd446-01be-42c0-8ed2-af8a3eb32117" name="Changes" comment="bfr pull" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,9 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2f8M93S17COPGvA9wtfN2Lo67j8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -60,17 +23,17 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -85,5 +48,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bfr pull" />
+    <option name="LAST_COMMIT_MESSAGE" value="bfr pull" />
   </component>
 </project>
