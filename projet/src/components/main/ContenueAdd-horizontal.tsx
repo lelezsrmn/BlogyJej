@@ -3,10 +3,10 @@ import 'tailwindcss/tailwind.css';
 
 const ContenueAddVerticale = () => {
     return (
-        <section className="container max-w-6xl mx-auto space-y-8 pb-20">
+        <section>
             <section className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 my-5">
                 {[1, 2, 3, 4, 5, 6].map((index) => (
-                    <a key={index} href="#"
+                    <a key={index} href="/article"
                        className="group bg-gray-800 rounded text-gray-200 max-w-sm mx-auto hover:no-underline focus:no-underline">
                         <div className="p-6 space-y-4">
                             <Image
