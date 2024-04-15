@@ -5,7 +5,7 @@ const ContenueAddVerticale = () => {
     return (
             <section className="grid grid-cols-1 gap-6 sm:grid-cols-6 lg:grid-cols-1 py-5">
                 {[1, 2, 3,].map((index) => (
-                    <a key={index} href="#"
+                    <a key={index} href="/article"
                        className="group bg-gray-800 rounded text-gray-200 max-w-sm mx-auto hover:no-underline focus:no-underline">
                         <div className="p-6 space-y-4">
                             <Image
