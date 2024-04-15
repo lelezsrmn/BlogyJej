@@ -2,6 +2,7 @@ import React from 'react';
 import HeaderCo from "@/src/components/header/Header-co";
 import ContenueAddVerticale from "@/src/components/main/ContenueAdd-verticale";
 import User from "@/src/components/main/User";
+import Contact from "@/src/components/footer/Contact";
 
 
 const Page = () => {
@@ -23,6 +24,7 @@ const Page = () => {
                     </button>
                 </section>
             </main>
+            <Contact/>
         </div>
     );
 };
