@@ -1,6 +1,11 @@
 import React from 'react';
 import 'tailwindcss/tailwind.css';
 
+
+
+
+
+
 const RegisterPage = () => {
     return (
         <section className="bg-gray-50 dark:bg-gray-900">
