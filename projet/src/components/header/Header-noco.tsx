@@ -9,7 +9,7 @@ const HeaderNoco = () => {
             </a>
             <button type="button"
                     className="text-sm text-black font-bold bg-neutral-300 hover:bg-blue-400 rounded-full px-4 h-10">
-            <a href={'/login'}>SeConnecte</a>
+            <a href={'/login'}>SeConnecter</a>
             </button>
         </header>
     );

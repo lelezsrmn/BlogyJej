@@ -3,7 +3,7 @@ import HeaderCo from "@/src/components/header/Header-co";
 import ContenueAddVerticale from "@/src/components/main/ContenueAdd-verticale";
 import User from "@/src/components/main/User";
 import Contact from "@/src/components/footer/Contact";
-import Editarticle from "@/src/components/main/editarticle";
+import Addpost from "@/src/components/main/editarticle";
 
 
 const Page = () => {
@@ -20,7 +20,7 @@ const Page = () => {
                 <section className={'mt-20'}>
                     <User/>
                     <section className={'mt-8'}>
-                        <Editarticle/>
+                        <Addpost/>
                     </section>
                 </section>
             </main>
