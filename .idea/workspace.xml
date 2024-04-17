@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="821bd446-01be-42c0-8ed2-af8a3eb32117" name="Changes" comment="bfr pull">
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projet/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projet/app/register/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projet/pnpm-lock.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projet/prisma/schema.prisma" afterDir="false" />
+    <list default="true" id="821bd446-01be-42c0-8ed2-af8a3eb32117" name="Changes" comment="supp app">
+      <change afterPath="$PROJECT_DIR$/projet/app/register/registerLogic.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/projet/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/projet/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/app/register/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/projet/app/register/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +36,9 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/zizzman/OneDrive - CFA SUP DE VINCI/Documents/s220si/y2/projet bdd etape par etape/BlogyJej&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
@@ -67,6 +65,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-WS-241.14494.235" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,6 +81,11 @@
       <option name="presentableId" value="Default" />
       <updated>1713178096836</updated>
       <workItem from="1713178097865" duration="25000" />
+      <workItem from="1713258040891" duration="153000" />
+      <workItem from="1713258218987" duration="850000" />
+      <workItem from="1713266465323" duration="33000" />
+      <workItem from="1713272072975" duration="6486000" />
+      <workItem from="1713337535324" duration="878000" />
     </task>
     <task id="LOCAL-00001" summary="bfr pull">
       <option name="closed" value="true" />
@@ -85,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713179183553</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="supp app">
+      <option name="closed" value="true" />
+      <created>1713258080422</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713258080422</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +112,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="bfr pull" />
-    <option name="LAST_COMMIT_MESSAGE" value="bfr pull" />
+    <MESSAGE value="supp app" />
+    <option name="LAST_COMMIT_MESSAGE" value="supp app" />
   </component>
 </project>
