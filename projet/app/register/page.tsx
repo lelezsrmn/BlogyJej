@@ -7,7 +7,7 @@ const RegisterUser = () => {
     const [data,setData] = useState({
         name:'',
         email:'',
-        hashedPassword:'',
+        password:'',
     })
 
     const registerUser = async (e:any) => {
@@ -73,9 +73,9 @@ const RegisterUser = () => {
                                        placeholder="••••••••"
                                        className="bg-gray-50 border border-gray-300 text-gray-900 sm:text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
                                        required
-                                       value={data.hashedPassword}
+                                       value={data.password}
                                        onChange={(e) => {
-                                           setData({...data, hashedPassword: e.target.value});
+                                           setData({...data, password: e.target.value});
                                        }}
                                 />
                             </div>
